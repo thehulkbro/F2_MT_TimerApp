@@ -7,8 +7,6 @@ A lightweight web app to manage multiple timers concurrently.
 Live Demo : https://thehulkbro.github.io/F2_MT_TimerApp/
 
 ## Preview
-
-[APP UI]
 ![Multiple_Timer](https://github.com/thehulkbro/F2_MT_TimerApp/assets/46588834/f45794d6-afda-40fb-bde9-f04e3230be3f)
 
 
